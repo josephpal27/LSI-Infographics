@@ -10,6 +10,10 @@
   body{
     background-color: #f9f9f9;
   }
+
+  /* .active{
+    color: #ec9122 !important;
+  } */
    
   /* --- Customize ScrollBars --- */
   .footer .center .linkedin-content::-webkit-scrollbar {
